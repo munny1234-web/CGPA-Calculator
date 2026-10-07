@@ -38,4 +38,4 @@ Privacy policy: [cgpa-calculator-privacy](https://github.com/munny1234-web/cgpa-
 
 ## 👩‍💻 Author
 
-**Jannatul Ferdous Munny** · [LinkedIn](https://www.linkedin.com/in/ferdous-munny-036028226) · ferdousmunny188@gmail.com
+**Jannatul Ferdous Munny** · [LinkedIn](https://www.linkedin.com/in/jannatul-ferdous-munny-036028226) · ferdousmunny188@gmail.com
